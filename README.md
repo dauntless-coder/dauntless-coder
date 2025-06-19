@@ -1,7 +1,11 @@
 <h1 align="center">Hi geeks👋, I'm Aditi Sharma</h1>
 <h3 align="center">A passionate JAVA Full Stack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dauntless-coder&label=Profile%20views&color=0e75b6&style=flat" alt="dauntless-coder" /> </p>
+
+![coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51](https://github.com/user-attachments/assets/56621b64-6ce2-458f-b1e6-dfab19bfa339)
+
+
+
 
 - 🔭 I'm currently working on [mailroach](https://github.com/dauntless-coder/mail-roach.git)
 
