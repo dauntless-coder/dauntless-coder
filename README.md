@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I'm currently working on [mailroach](https://github.com/dauntless-coder/mail-roach.git)
+- 🔭 I'm currently working on [mailroach](https://github.com/dauntless-coder/mailroach.git)
 
 - 📫 How to reach me **aditisharma9104@gmail.com**
 
