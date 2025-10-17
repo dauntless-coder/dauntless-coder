@@ -8,7 +8,7 @@
 
 
 - 🔭 I'm currently working on 
-[loopies](https://github.com/dauntless-coder/.git)
+[loopies](https://github.com/dauntless-coder/loopies)
 
 - 📫 Reach out!
 **aditisharma9104@gmail.com**
