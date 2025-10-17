@@ -7,9 +7,11 @@
 
 
 
-- 🔭 I'm currently working on [mailroach](https://github.com/dauntless-coder/mailroach.git)
+- 🔭 I'm currently working on 
+[loopies](https://github.com/dauntless-coder/.git)
 
-- 📫 How to reach me **aditisharma9104@gmail.com**
+- 📫 Reach out!
+**aditisharma9104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
